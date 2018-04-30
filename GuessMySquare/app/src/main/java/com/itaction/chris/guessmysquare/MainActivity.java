@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private String userGuess;
     private String compChoice;
     private Random rand = new Random();
-    private int numOfGuesses = 0;
+    private int numOfGuesses = 0; //Test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
